@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Researcher"
+  company = "VISION LABORATORY, NANJING UNIVERSITY "
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Kunshan, Suzhou"
+  date_start = "Fall 2016"
+  date_end = "Present"
+  description = """Developed state-of-the-art algorithms for computer vision, image/video compression, multi-frames prediction
+  """
+  
+[[experience]]
+  title = "Assistant R & D Engineer"
+  company = "CAMPUTER LABORATORY, DUKE KUNSHAN UNIVERSITY"
+  company_url = ""
+  location = "Kunshan, Suzhou"
+  date_start = "2018-06-15"
+  date_end = "2018-08-31"
   description = """
   Responsibilities include:
   
@@ -33,12 +43,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Researcher"
+  company = "YANSHENG TECHNOLOGY CO., LTD"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Guangzhou"
+  date_start = "2017-07-01"
+  date_end = "2017-08-31"
+  description = """Improved the storage algorithm and program structure, provided a powerful data analysis function in order to improve   Fujian traffic system’s efficiency. Participated in web page design and helped establish a user friendly interface with quick response   and concise style operation.
+  """
 
 +++
