@@ -19,13 +19,13 @@ organizations = [ { name = "Nanjing University", url = "https://www.nju.edu.cn/"
 bio = "My research interests include computer vision, deep learning and signal processing."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "151180047@smail.nju.edu.cn"
+email = "chuang@smail.nju.edu.cn"
 
 # List (academic) interests or hobbies
 interests = [
-  "Computer Vision",
+  "3D Vision",
   "Deep Learning",
-  "Signal Processing"
+  "Image and Video Processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,7 +34,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "BSc in Electrical Science and Engineering"
+  course = "BSc in Electronic Science and Engineering"
   institution = "Nanjing University"
   year = 2019
 
@@ -46,7 +46,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:chuang@smail.nju.edu.cn"  # For a direct email link, use "mailto:test@example.org".
 
 # [[social]]
 #  icon = "twitter"
@@ -65,11 +65,12 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/Chao Huang Resume.pdf"
+#[[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/Chao_Huang_s_CV1118.pdf"
 
 +++
 
-Chao Huang is an undergraduate student from school of electronic science and engineering at Nanjing University, working with Prof. Zhan Ma.
+Chao Huang is now a research assistant in the Chinese University of Hong Kong, advised by Prof. [Chi-Wing Fu](https://scholar.google.com.sg/citations?user=e5AJDrEAAAAJ&hl=en). He got the B.S. from EE Department, Nanjing University in 2019, working with Prof. [Zhan Ma](https://scholar.google.com.sg/citations?hl=en&user=78KxtRMAAAAJ). He is now pursuing a Ph.D. degree.
+<!-- an undergraduate student from school of Electronic Science and Engineering at Nanjing University, working with Prof. Zhan Ma. He will get the B.S. from Nanjing University, China in 2019 and now he is pursuing a Ph.D. degree in fall 2020. -->
